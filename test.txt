@@ -1,4 +1,0 @@
-JENKINS 
-DOCKER 
-ANSIBLE
-sdds
